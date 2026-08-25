@@ -14,11 +14,17 @@ Each case study follows the same structure:
 
 All scenarios are synthetic and domain-neutral. No client, employer, or project-confidential material appears anywhere in this repository - every example here is built from public, generic requirements-engineering scenarios I constructed myself.
 
-## Case studies
+## Case Studies — AI-Assisted Requirements Analysis
+[Requirements Clarity Lab →](case-studies/)
+- [Case Study 01 - Ambiguous & Underspecified Requirements](./case-study-01-ambiguous-requirements/) - a building access control system (More case studies will be added over time).
+Documented examples of using AI to accelerate ambiguity detection, testability
+review, and requirements refinement — with explicit notes on where RE judgment
+overrides or supplements the AI output.
 
-- [Case Study 01 - Ambiguous & Underspecified Requirements](./case-study-01-ambiguous-requirements/) - a building access control system
-
-More case studies will be added over time.
+## Diagram Portfolio — UML & BPMN
+[Diagram Portfolio →](diagram-portfolio/)
+Applied UML and BPMN modeling examples, built to demonstrate notation fluency
+independent of the AI-assisted work above.
 
 ## Why this exists
 
