@@ -1,6 +1,6 @@
 # UML Use Case Diagram — Appointment Booking System
 
-![Use Case Diagram](UML Use Case Diagram.svg)
+![Use Case Diagram](./UML Use Case Diagram.svg)
 
 ## What this models
 
