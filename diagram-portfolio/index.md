@@ -1,3 +1,7 @@
+---
+title: UML & BPMN Diagram Portfolio
+---
+
 # Diagram Portfolio - UML & BPMN
 
 **Purpose:** a small, honest demonstration that I have studied UML and BPMN notation in depth and can apply it correctly to a real-shaped requirements problem. not a claim of years of production modeling experience.
