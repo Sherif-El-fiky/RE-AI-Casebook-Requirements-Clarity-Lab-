@@ -1,3 +1,7 @@
+---
+title: Case Study 01 — Ambiguous & Underspecified Requirements
+---
+
 # Case Study 01 - Ambiguous & Underspecified Requirements
 
 **Scenario:** a building access control system (synthetic, domain neutral:no employer or client data).
