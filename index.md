@@ -13,13 +13,13 @@ All scenarios are synthetic and domain-neutral. No client, employer, or project-
 
 ## Case studies
 
-- [Case Study 01 — Ambiguous & Underspecified Requirements](https://github.com/Sherif-El-fiky/RE-AI-Casebook-Requirements-Clarity-Lab-/tree/main/case-study-01-ambiguous-requirements) a building access control system
+- [Case Study 01 — Ambiguous & Underspecified Requirements](./case-study-01-ambiguous-requirements/) a building access control system
 
 More case studies will be added over time.
 
 ## Diagram portfolio
 
-- [UML & BPMN Diagram Portfolio](https://github.com/Sherif-El-fiky/RE-AI-Casebook-Requirements-Clarity-Lab-/tree/main/diagram-portfolio) applied UML (use case, class, sequence) and BPMN modeling, demonstrating notation fluency independent of the AI-assisted work above
+- [UML & BPMN Diagram Portfolio](./diagram-portfolio/) applied UML (use case, class, sequence) and BPMN modeling, demonstrating notation fluency independent of the AI-assisted work above
 
 ---
 
